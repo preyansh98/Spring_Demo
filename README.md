@@ -1,4 +1,4 @@
-# SafeHome Spring Demo
+https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku#connecting-to-a-database# SafeHome Spring Demo
 
 ## Prerequisites:
 
@@ -7,6 +7,7 @@
 
 2.  Link the Spring Boot Application to Heroku
  - check out: https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku#connecting-to-a-database
+ - the only file you need to modify for this is the src/main/resources/application.properties file. 
    
 Now that your Spring Boot Application is set up with Heroku, it’s time to write some code!
 
