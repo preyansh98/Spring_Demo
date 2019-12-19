@@ -48,6 +48,12 @@ Your task is to provide the functionality for a User to register on SafeHome as 
    ensure that once a user registers, and then logs in, their
    information should be appended to this list.
    
+## Resources
+
+- https://www.baeldung.com/spring-boot-hibernate
+- https://spring.io/guides/gs/rest-service/
+- https://www.springboottutorial.com/creating-rest-service-with-spring-boot
+
 ## Tips
 
 Try and follow the classic way:
@@ -58,3 +64,5 @@ For reference, you can follow any other spring projects, or SafeHome itself.
 
 1.  Think about what classes/entities you need. Create these and put them in a “model” package.
 2.  You will need a repository class for the entities you want to save to your database.
+
+
