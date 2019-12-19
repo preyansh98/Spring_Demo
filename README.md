@@ -1,4 +1,4 @@
-https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku#connecting-to-a-database# SafeHome Spring Demo
+# SafeHome Spring Demo
 
 ## Prerequisites:
 
